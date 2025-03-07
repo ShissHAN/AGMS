@@ -1,16 +1,15 @@
 # AGMS
 AGMS: Adversarial Sample Generation-based Multi-Scale  Siamese Network for Hyperspectral Target Detection
 # Run
-PyTorch
+(1 and 4 Using the PyTorch environment)
+(2 and 3 Using the PyTorch environment)
 1. Run get_bg.py clustering to get initial background samples.
-TensorFlow
 2. Generate target samples
 2.1 Run PCA_bg.py to get the same number of background downscaled samples as the target prior.
 2.2 Run GAN_target_AV.py to get the target generation samples.
 3. Generate background samples
 3.1 Run PCA.py to get the target sample dimensionality reduction.
 3.2 Run GAN_bg.py to get the background generation samples.
-PyTorch
 4. Run train.py to train the multi-scale convolutional Siamese network using the generated samples and perform target detection.
    
 # Citation
