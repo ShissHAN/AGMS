@@ -14,13 +14,5 @@ AGMS: Adversarial Sample Generation-based Multi-Scale  Siamese Network for Hyper
    
 # Citation
 If you use code or datasets in this repository for your research, please cite our paper.
-@ARTICLE{10731863,
-  author={Luo, Fulin and Shi, Shanshan and Guo, Tan and Dong, Yanni and Zhang, Lefei and Du, Bo},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={AGMS: Adversarial Sample Generation-Based Multiscale Siamese Network for Hyperspectral Target Detection}, 
-  year={2024},
-  volume={62},
-  number={},
-  pages={1-13},
-  keywords={Training;Feature extraction;Object detection;Adaptation models;Generators;Detectors;Kernel;Interference;Minimization;Geoscience and remote sensing;Adversarial learning;deep learning;hyperspectral target detection (HTD);multiscale convolution;Siamese network},
-  doi={10.1109/TGRS.2024.3484678}}
+
+F. Luo, S. Shi, T. Guo, Y. Dong, L. Zhang and B. Du, "AGMS: Adversarial Sample Generation-Based Multiscale Siamese Network for Hyperspectral Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-13, 2024, Art no. 5536713, doi: 10.1109/TGRS.2024.3484678. 
