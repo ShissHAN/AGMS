@@ -1,8 +1,5 @@
 # AGMS
 AGMS: Adversarial Sample Generation-based Multi-Scale  Siamese Network for Hyperspectral Target Detection
-# Overview
-![Uploading 22.png…]()
-
 # Run
 (1 and 4 Using the PyTorch environment)
 (2 and 3 Using the TensorFlow environment)
